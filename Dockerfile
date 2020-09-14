@@ -1,4 +1,4 @@
-FROM node:carbon
+FROM centos
 
 
 # Create app directory
